@@ -4,7 +4,7 @@ import { Link } from "gatsby"
 const Navbar = () => {
   return (
     <nav>
-      <uL>
+      <ul>
         <li>
           <Link to="/">Home</Link>
         </li>
@@ -20,7 +20,7 @@ const Navbar = () => {
         <li>
           <Link to="/contact">Contact</Link>
         </li>
-      </uL>
+      </ul>
     </nav>
   )
 }
