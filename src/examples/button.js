@@ -2,7 +2,6 @@ import styled from "styled-components"
 
 export const ExampleButton = styled.button`
   background: green;
-  color: white;
-  border: none;
-  padding: 10px;
+  color: orange;
+  font-size: 2rem;
 `
